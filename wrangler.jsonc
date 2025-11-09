@@ -14,5 +14,11 @@
   "observability": {
     "enabled": true
   },
+  "routes": [
+    {
+      "pattern": "satobaby.shop",
+      "custom_domain": true
+    }
+  ],
   "upload_source_maps": true
 }
